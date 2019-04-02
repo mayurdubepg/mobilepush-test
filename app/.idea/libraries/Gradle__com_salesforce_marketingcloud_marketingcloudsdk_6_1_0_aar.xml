@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.salesforce.marketingcloud:marketingcloudsdk:6.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/marketingcloudsdk-6.1.0.aar/087156f6d2a194c2f031db7d4303c01d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/marketingcloudsdk-6.1.0.aar/087156f6d2a194c2f031db7d4303c01d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/marketingcloudsdk-6.1.0.aar/087156f6d2a194c2f031db7d4303c01d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.salesforce.marketingcloud/marketingcloudsdk/6.1.0/f7b7211eb469564a7a2e86d29a8399745a24574c/marketingcloudsdk-6.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
